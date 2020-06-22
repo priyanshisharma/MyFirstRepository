@@ -1,2 +1,2 @@
 # MyFirstRepository
-This is indeed a test repository.
+This is indeed my first test repository.
